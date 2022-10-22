@@ -1,0 +1,51 @@
+Vendor              amount        			  Date   		         Time 
+
+
+
+
+ Paid By : Dad    Vendor Name : Wallmart    Amount Paid :55   Time : 2022-10-16 20:52:03.005304
+
+
+ Paid By : DAD    Vendor Name :  IGA     Amount Paid :1500   Time : 2022-10-16 20:54:56.520125
+
+
+Paid By   : LucyVendor Name :  Concordia    Amount Paid :100   Time : 2022-10-16 21:00:07.127674
+
+
+
+ Paid By : Jacob    Vendor Name : Wallmart    Amount Paid :500   Time : 2022-10-17 11:13:49.827143
+
+
+
+ Paid By : Lucy    Vendor Name : iga    Amount Paid :11   Time : 2022-10-17 16:25:05.515186
+
+
+ Paid By : Lucy    Vendor Name : IGA    Amount Paid :22   Time : 2022-10-17 16:26:00.543129
+
+
+ Paid By : Lucy    Vendor Name : Wall    Amount Paid :45   Time : 2022-10-17 16:29:59.830248
+
+
+ Paid By : Lucy    Vendor Name : Iga    Amount Paid :33   Time : 2022-10-17 16:30:21.743187
+
+Paid By   :LucyVendor Name :  Wallmart    Amount Paid :1000   Time : 2022-10-17 16:31:17.922873
+
+Paid By   : Lucy Vendor Name : Metro    Amount Paid :1025   Time : 2022-10-17 16:32:21.313840
+
+
+ Paid By : Lucy    Vendor Name : Wall    Amount Paid :40   Time : 2022-10-17 16:43:11.818658
+
+
+ Paid By : Jacob    Vendor Name : Wallmart    Amount Paid :50   Time : 2022-10-17 20:52:55.782858
+
+
+ Paid By : Simba    Vendor Name : Ashish    Amount Paid :44   Time : 2022-10-17 20:54:19.910200
+
+
+ Paid By : Jenny    Vendor Name :  IGA    Amount Paid :45   Time : 2022-10-17 21:12:14.251388
+
+
+ Paid By : Jacob    Vendor Name : IGA    Amount Paid :500   Time : 2022-10-17 21:20:17.176278
+
+
+ Paid By : Jacob    Vendor Name : STM    Amount Paid :895   Time : 2022-10-17 21:46:50.051824

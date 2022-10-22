@@ -1,0 +1,10 @@
+lucy,Lucy,1234
+simba,Simba,456
+jack,Jack,852
+alex,Alex,7743
+maria,Maria,1234
+maggie,Magie,1234
+john,John,1234
+sandra,Sandra,1234
+kratos,Kratos,1234
+alan,Alan,1234
